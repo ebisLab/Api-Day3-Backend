@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/ebisLab/Api-Day3-Backend/issues"
   },
-  "homepage": "https://github.com/ebisLab/Api-Day3-Backend#readme"
+  "homepage": "https://github.com/ebisLab/Api-Day3-Backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
 }
