@@ -1,26 +1,27 @@
 {
-  "name": "Api-Day3-Backend",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ebisLab/Api-Day3-Backend.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ebisLab/Api-Day3-Backend/issues"
-  },
-  "homepage": "https://github.com/ebisLab/Api-Day3-Backend#readme",
-  "dependencies": {
-    "express": "^4.17.1"
-  },
-  "devDependencies": {
-    "nodemon": "^1.19.2"
-  }
+    "name": "Api-Day3-Backend",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "server": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ebisLab/Api-Day3-Backend.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ebisLab/Api-Day3-Backend/issues"
+    },
+    "homepage": "https://github.com/ebisLab/Api-Day3-Backend#readme",
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "devDependencies": {
+        "nodemon": "^1.19.2"
+    }
 }
